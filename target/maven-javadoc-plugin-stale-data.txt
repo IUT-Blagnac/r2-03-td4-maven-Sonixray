@@ -1,0 +1,53 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/workspace/r2-03-td4-maven-Sonixray/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'tp_qualite 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/workspace/r2-03-td4-maven-Sonixray/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp_qualite 1.0 API'
+'/workspace/r2-03-td4-maven-Sonixray/src/main/java/DatesEtCompagnie.java'
+/workspace/r2-03-td4-maven-Sonixray/src/main/java/DatesEtCompagnie.java = 1645802012240
+/workspace/r2-03-td4-maven-Sonixray/src/main/java = 1645802586168
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/DatesEtCompagnie.html = 1645802752539
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/element-list = 1645802752539
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/package-summary.html = 1645802752595
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/package-tree.html = 1645802752603
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/constant-values.html = 1645802752603
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/package-use.html = 1645802752615
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/overview-tree.html = 1645802752615
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/package-search-index.js = 1645802752623
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/package-search-index.zip = 1645802752635
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/type-search-index.js = 1645802752635
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/type-search-index.zip = 1645802752635
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/member-search-index.js = 1645802752635
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/member-search-index.zip = 1645802752635
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/index-all.html = 1645802752635
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/allclasses-index.html = 1645802752639
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/allpackages-index.html = 1645802752639
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/deprecated-list.html = 1645802752643
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/allclasses.html = 1645802752643
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/index.html = 1645802752647
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/help-doc.html = 1645802752647
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/stylesheet.css = 1645802752651
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/script.js = 1645802752651
+/workspace/r2-03-td4-maven-Sonixray/target/site/apidocs/search.js = 1645802752651

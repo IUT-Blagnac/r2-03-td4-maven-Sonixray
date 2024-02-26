@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <mainClass>DatesEtCompagnie</mainClass>
             </manifest>
           </archive>
         </configuration>
